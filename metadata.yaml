@@ -1,0 +1,45 @@
+_repo: Jack-and-Jill_2786
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Alcott, L. M. (Louisa May)
+    - Alcott, Louisa M. (Louisa May)
+    - Barnard, A. M.
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+description: "Jack and Jill: A Village Story by Louisa May Alcott, is a children's\
+  \ book originally published in 1880. It takes place in a small New England town\
+  \ after the Civil War. The story of two good friends named Jack and Janey, Jack\
+  \ and Jill tells of the aftermath of a serious sledding accident.\n\n\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2001-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2786'
+  wikidata: Q6115945
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcc 'PZ'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Children''s accidents -- Juvenile fiction'
+- !lcsh 'Winter -- Juvenile fiction'
+- !lcsh 'Family life -- Juvenile fiction'
+- !lcsh 'New England -- Social life and customs -- Juvenile fiction'
+- GITenberg
+title: Jack and Jill
+url: http://www.gutenberg.org/ebooks/2786
+wikipedia:
+- https://simple.wikipedia.org/wiki/Jack_and_Jill:_A_Village_Story
+- https://en.wikipedia.org/wiki/Jack_and_Jill:_A_Village_Story
+- https://it.wikipedia.org/wiki/Jack_e_Jill._Incontro_alla_vita
+- https://pt.wikipedia.org/wiki/Jack_and_Jill:_A_Village_Story
